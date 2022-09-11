@@ -28,7 +28,7 @@ content:
   email: dalton.dtli@gmail.com; dtli@hit.edu.cn
   phone: +86 13682328601
   address:
-    street: West Dazhi
+    street: West Dazhi Street
     city: Harbin
     postcode: '150001'
     country: P.R.China
