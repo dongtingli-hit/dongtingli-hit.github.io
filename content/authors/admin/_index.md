@@ -31,7 +31,7 @@ education:
       year: Mar. 2021 - Present
     - course: M.Eng in Control Engineering
       institution: Harbin Institute of Technology (Shenzhen)
-    - course: BSc in Electrical Engineering and Automation
+    - course: B.Sc in Electrical Engineering and Automation
       institution: Northeast Petroleum University
       
 
@@ -44,6 +44,9 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0000-0002-8942-7400
+  - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Li-Dongting
   - icon: github
