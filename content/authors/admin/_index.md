@@ -11,7 +11,7 @@ role: Ph.D. Student of Control Science and Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Harbin Institute of Technology
-    url: https://www.stanford.edu/
+    url: [http://en.hit.edu.cn/]
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -43,18 +43,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: orcid
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Li-Dongting
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.cn/incareer/in/%E4%B8%9C%E5%BA%AD-%E6%9D%8E-35966a248
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,14 +61,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'dalton.dtli@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
