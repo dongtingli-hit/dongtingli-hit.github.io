@@ -28,7 +28,6 @@ education:
   courses:
     - course: Ph.D. in Control Science and Engineering
       institution: Harbin Institute of Technology
-      # year: Mar. 2021 - Present
     - course: M.Eng in Control Engineering
       institution: Harbin Institute of Technology (Shenzhen)
     - course: B.Sc in Electrical Engineering and Automation
