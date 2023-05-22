@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - Harbin Institute of Technology
+  - name: Harbin Institute of Technology
     url: [http://en.hit.edu.cn/]
 
 # Short bio (displayed in user profile at end of posts)
