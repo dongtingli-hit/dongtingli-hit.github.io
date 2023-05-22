@@ -25,8 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dalton.dtli@gmail.com
-  email: dtli@hit.edu.cn
+  email: dalton.dtli@gmail.com, dtli@hit.edu.cn
   address:
     street: West Dazhi Street
     city: Harbin
