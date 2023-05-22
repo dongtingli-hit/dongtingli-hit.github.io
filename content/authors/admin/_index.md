@@ -18,17 +18,17 @@ bio: My research interests include multi-agent game theory, control theory and a
 
 # Interests to show in About widget
 interests:
-  - Multi-agent Game Theory and Control
-  - Model Predictive Control
-  - Learning-based Control
-  - Applications on Aerospace Engineering and Robotics
+  - Game Theory
+  - Control Theory
+  - Reinforcement Learning
+  - Aerospace Engineering
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Control Science and Engineering
       institution: Harbin Institute of Technology
-      year: Mar. 2021 - Present
+      # year: Mar. 2021 - Present
     - course: M.Eng in Control Engineering
       institution: Harbin Institute of Technology (Shenzhen)
     - course: B.Sc in Electrical Engineering and Automation
@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: google-scholar 
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0002-8942-7400
