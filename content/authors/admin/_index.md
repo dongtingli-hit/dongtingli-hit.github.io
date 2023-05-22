@@ -27,6 +27,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Control Science and Engineering
+      supervisor: Prof. Yanning Guo
       institution: Harbin Institute of Technology
     - course: M.Eng in Control Engineering
       institution: Harbin Institute of Technology (Shenzhen)
