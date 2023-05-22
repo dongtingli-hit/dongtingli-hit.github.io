@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dongting Li
+title: Dongting LI | 李东庭
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Harbin Institute of Technology
+  - Harbin Institute of Technology
     url: [http://en.hit.edu.cn/]
 
 # Short bio (displayed in user profile at end of posts)
