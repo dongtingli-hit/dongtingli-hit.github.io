@@ -43,7 +43,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1
   - icon: orcid
     icon_pack: fab
