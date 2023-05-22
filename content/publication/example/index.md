@@ -7,7 +7,7 @@ title: 'Sampling-based 3-D line-of-sight PWA model predictive control for autono
 authors:
   - Dongting Li
   - Rui-Qi Dong
-  - Yanning Guo
+  - Yanning Guo*
   - Guangtao Ran
   - Dongyu Li
 
