@@ -6,7 +6,7 @@ title: Dongting Li
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student of Control Science and Engineering
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -42,7 +42,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: google-scholar 
+  - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1
   - icon: orcid
