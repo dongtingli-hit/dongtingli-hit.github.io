@@ -76,6 +76,6 @@ email: 'dalton.dtli@gmail.com'
 highlight_name: true
 ---
 
-Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu).
+Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021, supervised by Prof. [Ai-Guo Wu](http://faculty.hitsz.edu.cn/wuaiguo). From Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu) and supervised by Prof. [Yanning Guo](http://homepage.hit.edu.cn/guoyanning?lang=zh).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
