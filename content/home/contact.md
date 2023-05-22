@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dalton.dtli@gmail.com; dtli@hit.edu.cn
-  phone: +86 13682328601
+  email: dalton.dtli@gmail.com
+  email: dtli@hit.edu.cn
   address:
     street: West Dazhi Street
     city: Harbin
@@ -36,7 +36,7 @@ content:
   coordinates:
     latitude: '45.75'
     longitude: '126.64'
-  directions: Room 606, Main building
+  directions: Main building
 
 
 design:
