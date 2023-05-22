@@ -51,6 +51,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Li-Dongting
+  - icon: ieee
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1
   - icon: github
     icon_pack: fab
     link: https://scholar.google.com/citations?user=dm9TgGcAAAAJ&hl=zh-CN&authuser=1
