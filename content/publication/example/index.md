@@ -8,7 +8,7 @@ authors:
   - Dongting Li
   - Rui-Qi Dong
   - Yanning Guo
-  - Guangtao ran
+  - Guangtao Ran
   - Dongyu Li
 
 # Author notes (optional)
@@ -26,13 +26,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *International Journal of Robust and Nonlinear Control*
 publication_short: In *International Journal of Robust and Nonlinear Control*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This article introduces a line-of-sight (LOS)-Euler rendezvous and docking (RVD) framework to dock with a tumbling target under several RVD constraints. By a double-loop control scheme, the chaser’s position is controlled to track the target’s docking port which is coupled with its rotation. The chaser’s attitude is driven to track the target’s rotation, while satisfying the field of view constraint which is coupled with the LOS range. These complex couplings are linearly described in the proposed framework. To this end, the 6 DoF information interactions among the sensor mea- surements, states, and RVD constraints need no transformation and linearization. Consider the online piecewise affine (PWA) model predictive controller (MPC) may be unsolvable under complex constraints, which is caused by the accumulated pre- diction error, a sampling-based method is proposed. The linear predictions are driven to the closer neighborhoods of the actual nonlinear states by constructing directional sampling intervals. Besides, a singularity free strategy is provided to realize con- tinuous tracking with crossing the singularities of angle states. Detailed numerical simulations illustrate the validity of the proposed methods.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -40,7 +40,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: ture
 
 # Custom links (uncomment lines below)
 # links:
